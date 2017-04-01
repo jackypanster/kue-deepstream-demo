@@ -15,22 +15,6 @@
       "env": {
         "PORT": "3001"
       }
-    },
-    {
-      "name": "kue3",
-      "script": "./index.js",
-      "watch": false,
-      "env": {
-        "PORT": "3002"
-      }
-    },
-    {
-      "name": "kue4",
-      "script": "./index.js",
-      "watch": false,
-      "env": {
-        "PORT": "3003"
-      }
     }
   ]
 }
